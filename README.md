@@ -1,5 +1,8 @@
 # gameproject
 ## Story
+  Pada suatu waktu ditahun 2030 bumi terancam bom nuklir yang telah dihack oleh orang jahat. Sebuah pesawat besar berkapasitas 3500 orang pun diluncurkan ke luar angkasa demi menyelamatkan orang-orang berpengaruh agar terhindar dari ancaman bom nuklir tersebut. Setelah 100 tahun aman diluar angkasa, pesawat mulai kehabisan bahan makanan untuk 3000 orang dan hanya cukup untuk 4 bulan terakhir. Untuk bertahan hidup kru memutuskan untuk kembali ke bumi. Diturunkanlah 50 orang pertama untuk memastikan bahwa bumi siap ditinggali lagi.
+  Ketika 50 orang tersebut didaratkan satu-persatu mulai diculik oleh penduduk yang telah mendiami bumi sebelum kru luar angkasa tiba. David, salah seorang kru pesawat luar angkasa yang mendarat dibumi menjadi orang terakhir yang belum tertangkap dan selalu berhasil kabur. David yakin teman-temannya masih hidup dan ingin menyelamatkan mereka. David pun mencari tahu dimana teman-temannya ditahan. Untuk menyelamatkan teman-temannya, David harus melawan penduduk asli yang disebut "Earthanian" itu seorang diri. Dengan segala persiapan David pun datang ke daerah para Earthanian. Perjuangan David pun dimulai.
 ## Character
+
 ## Enemy
 ## Mechanic
