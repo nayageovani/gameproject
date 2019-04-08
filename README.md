@@ -1,3 +1,5 @@
+# link game
+https://drive.google.com/open?id=1X8laz-5gIeSDSUR3zKwG_nHtow4savEA
 # game
 ## Story
   Pada suatu waktu ditahun 2030 bumi terancam bom nuklir yang telah dihack oleh orang jahat. Sebuah pesawat besar berkapasitas 3500 orang pun diluncurkan ke luar angkasa demi menyelamatkan orang-orang berpengaruh agar terhindar dari ancaman bom nuklir tersebut. Setelah 100 tahun aman diluar angkasa, pesawat mulai kehabisan bahan makanan untuk 3000 orang dan hanya cukup untuk 4 bulan terakhir. Untuk bertahan hidup kru memutuskan untuk kembali ke bumi. Diturunkanlah 50 orang pertama untuk memastikan bahwa bumi siap ditinggali lagi.
